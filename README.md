@@ -1,3 +1,5 @@
+# THIS IS A FORK OF THE MAX STORAGE INTEGRATION OF https://github.com/geeks-r-us"
+
 # MaxStorage Ultimate component for Home Assistant
 
 This is the MaxStorage Ultimate component for Home Assistant. It allows you to get the status of your MaxStorage Ultimate device in Home Assistant.
