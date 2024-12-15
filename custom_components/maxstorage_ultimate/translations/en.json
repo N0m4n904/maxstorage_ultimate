@@ -52,6 +52,12 @@
       },
       "storage_dc_power": {
         "name": "Storage DC Power"
+      },
+      "mppt1_power": {
+        "name": "MPPT1 Power"
+      },
+      "mppt2_power": {
+        "name": "MPPT2 Power"
       }
     }
   }

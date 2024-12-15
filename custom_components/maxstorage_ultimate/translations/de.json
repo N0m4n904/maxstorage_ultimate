@@ -50,6 +50,12 @@
       },
       "storage_dc_power": {
         "name": "Speicher DC Leistung"
+      },
+      "mppt1_power": {
+        "name": "MPPT1 Leistung"
+      },
+      "mppt2_power": {
+        "name": "MPPT2 Leistung"
       }
     }
   }
