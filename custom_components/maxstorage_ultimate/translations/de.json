@@ -56,6 +56,45 @@
       },
       "mppt2_power": {
         "name": "MPPT2 Leistung"
+      },
+      "device_in_update": {
+        "name": "Gerät wird aktualisiert"
+      },
+      "dc_switch_off": {
+        "name": "Gleichstromabschaltung"
+      },
+      "grid_code_unknown": {
+        "name": "Netzcode unbekannt"
+      },
+      "in_winter_mode": {
+        "name": "Wintermodus"
+      },
+      "in_bmz_equalization": {
+        "name": "Ausgleichsüberwachung"
+      },
+      "in_peak_shaving": {
+        "name": "Spitzenlastkappung"
+      },
+      "in_optimization_limit": {
+        "name": "Optimierungs-Limit"
+      },
+      "in_battery_calibration": {
+        "name": "Batteriekalibrierung"
+      },
+      "no_power_meter": {
+        "name": "Leistungszähler-Abwesenheit"
+      },
+      "grid_error": {
+        "name": "Stromnetz-Fehler"
+      },
+      "grid_locked": {
+        "name": "Stromnetz-Blockierung"
+      },
+      "island_active": {
+        "name": "Inselbetrieb"
+      },
+      "service_mode": {
+        "name": "Wartungsmodus"
       }
     }
   }

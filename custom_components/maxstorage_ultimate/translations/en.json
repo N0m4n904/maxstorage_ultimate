@@ -58,6 +58,45 @@
       },
       "mppt2_power": {
         "name": "MPPT2 Power"
+      },
+      "device_in_update": {
+        "name": "Device in update"
+      },
+      "dc_switch_off": {
+        "name": "DC Switch Off"
+      },
+      "grid_code_unknown": {
+        "name": "Grid Code Unknown"
+      },
+      "in_winter_mode": {
+        "name": "Winter Mode"
+      },
+      "in_bmz_equalization": {
+        "name": "Equalization Monitoring"
+      },
+      "in_peak_shaving": {
+        "name": "Peak Shaving"
+      },
+      "in_optimization_limit": {
+        "name": "Optimization Limit"
+      },
+      "in_battery_calibration": {
+        "name": "Battery Calibration"
+      },
+      "no_power_meter": {
+        "name": "Power Meter Absence"
+      },
+      "grid_error": {
+        "name": "Grid Error"
+      },
+      "grid_locked": {
+        "name": "Grid Lock"
+      },
+      "island_active": {
+        "name": "Island Mode"
+      },
+      "service_mode": {
+        "name": "Service Mode"
       }
     }
   }
