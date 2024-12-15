@@ -154,4 +154,22 @@ SENSOR_TYPES: tuple[MaxStorageSensorDescription, ...] = (
         state_class=SensorStateClass.MEASUREMENT,
         device_class=SensorDeviceClass.POWER,
     ),
+    MaxStorageSensorDescription(
+        key="mppt1Power",
+        translation_key="mppt1_power",
+        icon="mdi:solar-power",
+        value_fn=lambda data: data["storageMPPT1Power"],
+        native_unit_of_measurement=UnitOfPower.WATT,
+        state_class=SensorStateClass.MEASUREMENT,
+        device_class=SensorDeviceClass.POWER,
+    ),
+    MaxStorageSensorDescription(
+        key="mppt2Power",
+        translation_key="mppt2_power",
+        icon="mdi:solar-power",
+        value_fn=lambda data: data["storageMPPT2Power"],
+        native_unit_of_measurement=UnitOfPower.WATT,
+        state_class=SensorStateClass.MEASUREMENT,
+        device_class=SensorDeviceClass.POWER,
+    ),
 )
